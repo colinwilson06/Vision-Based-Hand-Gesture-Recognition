@@ -1,7 +1,6 @@
 # Vision-Based Hand Gesture Recognition 🎮✋
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-green)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![YouTube Demo](https://img.shields.io/badge/demo-video-red)](https://youtu.be/fdoTDal46xY?si=svoeNBQOFO4rglU0)
 
 A **real-time hand gesture recognition system** that maps hand gestures to keyboard inputs, enabling **accessible game control**. Ideal for users with physical limitations or for creative game interaction.
@@ -55,10 +54,6 @@ jupyter notebook src/gestureToKeyboard.ipynb
 - opencv-python >= 4.7
 - mediapipe >= 0.9
 - pyautogui >= 0.9
-
-
-## 📄 License
-This project is licensed under [Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
 **Note:** Folder `assets/` contains:
