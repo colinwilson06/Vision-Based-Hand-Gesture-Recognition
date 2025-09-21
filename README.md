@@ -28,7 +28,7 @@ A **real-time hand gesture recognition system** that maps hand gestures to keybo
 
 ## 🛠 Installation
 
-** Clone the repository:
+**Clone the repository:**
 
 ```bash
 
