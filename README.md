@@ -21,7 +21,8 @@ A **real-time hand gesture recognition system** that maps hand gestures to keybo
 
 [Watch Demo on YouTube](https://youtu.be/fdoTDal46xY?si=svoeNBQOFO4rglU0)  
 
-**Screenshots:** See `assets/screenshots/`  
+**Screenshots:** See [Screenshots](assets/screenshots/)
+ 
 ![Example Gesture](assets/screenshots/UP.png)
 
 ---
